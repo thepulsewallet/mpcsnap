@@ -1,5 +1,5 @@
-import { TPCEcdsaSign } from '@safeheron/two-party-ecdsa-js'
-import { P2Context } from '@safeheron/two-party-ecdsa-js/dist/lib/sign'
+import { TPCEcdsaSign } from '@thepulsewallet/two-party-ecdsa-js'
+import { P2Context } from '@thepulsewallet/two-party-ecdsa-js/dist/lib/sign'
 
 import Encryptor from '../enc/Encryptor'
 import Signer from './Signer'

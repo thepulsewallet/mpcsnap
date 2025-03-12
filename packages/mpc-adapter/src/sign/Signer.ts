@@ -1,4 +1,4 @@
-import { JsonObject } from '@safeheron/two-party-ecdsa-js/dist/lib/keyGen/jsonObject'
+import { JsonObject } from '@thepulsewallet/two-party-ecdsa-js/dist/lib/keyGen/jsonObject'
 import BN from 'bn.js'
 import { BigNumber, ethers } from 'ethers'
 

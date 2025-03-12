@@ -1,6 +1,6 @@
-import { TPCEcdsaKeyGen } from '@safeheron/two-party-ecdsa-js'
-import { P1Context } from '@safeheron/two-party-ecdsa-js/dist/lib/keyGen'
-import { JsonObject } from '@safeheron/two-party-ecdsa-js/dist/lib/keyGen/jsonObject'
+import { TPCEcdsaKeyGen } from '@thepulsewallet/two-party-ecdsa-js'
+import { P1Context } from '@thepulsewallet/two-party-ecdsa-js/dist/lib/keyGen'
+import { JsonObject } from '@thepulsewallet/two-party-ecdsa-js/dist/lib/keyGen/jsonObject'
 import BN from 'bn.js'
 import pako from 'pako'
 

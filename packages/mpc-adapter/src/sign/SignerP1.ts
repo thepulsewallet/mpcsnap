@@ -1,6 +1,6 @@
 import { splitSignature } from '@ethersproject/bytes'
-import { TPCEcdsaSign } from '@safeheron/two-party-ecdsa-js'
-import { P1Context } from '@safeheron/two-party-ecdsa-js/dist/lib/sign'
+import { TPCEcdsaSign } from '@thepulsewallet/two-party-ecdsa-js'
+import { P1Context } from '@thepulsewallet/two-party-ecdsa-js/dist/lib/sign'
 import { ethers } from 'ethers'
 
 import Encryptor from '../enc/Encryptor'
