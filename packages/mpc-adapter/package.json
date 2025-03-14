@@ -1,6 +1,6 @@
 {
   "name": "@thepulsewallet/two-party-mpc-adapter",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Adapter for the two-party MPC algorithm",
   "main": "./dist/index.js",
   "repository": {
@@ -34,7 +34,7 @@
   "author": "Yann<yanjie002@gmail.com>",
   "dependencies": {
     "@ethersproject/bytes": "^5.6.1",
-    "@safeheron/crypto-ecies": "^1.0.0",
+    "@thepulsewallet/crypto-ecies": "^1.0.0",
     "@thepulsewallet/two-party-ecdsa-js": "^1.0.4",
     "bn.js": "^5.2.1",
     "crypto-js": "^4.1.1",
