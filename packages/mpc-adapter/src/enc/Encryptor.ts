@@ -1,5 +1,5 @@
 import {AuthEnc} from '@safeheron/crypto-ecies'
-import { Rand } from '@safeheron/crypto-rand'
+import { Rand } from '@thepulsewallet/crypto-rand'
 import BN from 'bn.js'
 import * as elliptic from 'elliptic'
 import { curve } from 'elliptic'

@@ -1,4 +1,4 @@
-import { Rand } from '@safeheron/crypto-rand'
+import { Rand } from '@thepulsewallet/crypto-rand'
 import { TPCEcdsaSign } from '@thepulsewallet/two-party-ecdsa-js'
 import { KeyShare1, KeyShare2 } from '@thepulsewallet/two-party-ecdsa-js/dist/lib/keyGen'
 import { JsonObject } from '@thepulsewallet/two-party-ecdsa-js/dist/lib/keyGen/jsonObject'

@@ -1,4 +1,4 @@
-import { Prime,Rand } from '@safeheron/crypto-rand'
+import { Prime,Rand } from '@thepulsewallet/crypto-rand'
 import BN from 'bn.js'
 import { Buffer } from 'safe-buffer'
 
